@@ -1,0 +1,6 @@
+{
+  "name": "LankaEdu - Sri Lanka National Education & Course Hub",
+  "description": "Comprehensive national course and career directory for Sri Lanka. Discover UGC state degrees, TVEC NVQ vocational training, AI career advice, admissions, and scholarships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
